@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>GridViewer.qml</file>
+        <file>TableViewer.qml</file>
+        <file>GAreaTop.qml</file>
+        <file>GAreaBottom.qml</file>
+        <file>Block.qml</file>
+        <file>ControlBar.qml</file>
+    </qresource>
+</RCC>
